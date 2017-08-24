@@ -1,0 +1,41 @@
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0px;
+}
+
+.narrow, .wide {
+	border: solid black 1px;
+	display: inline-block;
+}
+
+.wide {
+	height: 200px;
+	width: 50%;
+}
+
+.narrow {
+	height: 300px;
+	width: 33.33%;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.yellow {
+	background-color: yellow;
+}
